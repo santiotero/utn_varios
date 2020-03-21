@@ -1,0 +1,49 @@
+
+body{
+    margin: 0.5%;    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 15pt;
+}
+
+img{
+    height: 50px;
+    width: 200px;    
+}
+
+.Cabecera{
+    display: flex;
+}
+
+p{
+    font-size: 10pt;
+}
+
+.contenedor_datos{
+    margin-bottom: 7px;
+}
+
+input[type=text] {
+    width: 100%;
+    border: 2px solid #BFC9CA ;
+    border-radius: 4px;
+    font-size: 20pt;
+}
+
+input[type=submit] {
+    width: 100%;
+    border: 2px solid #3498DB ;
+    border-radius: 4px;
+    font-size: 20pt;
+    color: white;
+    background-color: #3498DB;
+}
+
+.Foot{
+    margin-top: 2%;
+    height: 150px;
+    background-color: #BFC9CA;
+    color: white;
+    text-align: center;
+}
